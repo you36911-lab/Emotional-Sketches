@@ -324,6 +324,7 @@ body {
 .end-box {
    display: flex;
    flex-direction: column;
+   align-items: center;
    justify-content: center;
 }
 
@@ -353,13 +354,13 @@ body {
 }
 
 .end-source {
-   margin-left: auto;
-   margin-right: auto;
-   text-align: justify;
-   font-size: 12px;
-   line-height: 2;
-   color: #9a5a64;
-   width: 200px;
+    width: 200px;
+    margin: 0 auto;
+    text-align: justify;
+    font-size: 12px;
+    line-height: 2;
+    color: #9a5a64;
+    position: relative;
 }
 
 .end-note {
