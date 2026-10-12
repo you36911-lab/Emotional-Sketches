@@ -350,7 +350,6 @@ body {
 }
 
 .end-source {
-    width: 170px;
     margin: 4rem auto 0 auto;
     font-size: 12px;
     line-height: 1.2;
@@ -362,7 +361,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
-    width: 220px;
+    width: 180px;
     gap: 8px;
     font-size: 12px;
 }
