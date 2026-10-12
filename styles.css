@@ -322,7 +322,7 @@ body {
 }
 
 .end-mark {
-    top: 50%;
+    top: 30%;
     left: 0;
     right: 0;
     transform: translateY(-60%);
