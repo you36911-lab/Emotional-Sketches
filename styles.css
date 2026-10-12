@@ -351,12 +351,16 @@ body {
 
 .end-source {
     width: 200px;
-    margin: 3rem auto 0 auto;
-    text-align: justify;
+    margin: 4rem auto 0 auto;
     font-size: 12px;
-    line-height: 1.5;
+    line-height: 1.2;
     color: #9a5a64;
     position: relative;
+}
+
+.source-list {
+   text-align: justify;
+   width: 220px;
 }
 
 .end-note {
