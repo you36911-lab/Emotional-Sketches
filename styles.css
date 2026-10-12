@@ -362,19 +362,6 @@ body {
    width: 200px;
 }
 
-.end-source a {
-    color: #9a5a64;                /* 링크 기본 색상 */
-    text-decoration: underline;    /* 밑줄 표시 */
-    text-decoration-color: #9a5a64; /* 밑줄 색상도 글자색과 동일하게 맞춤 */
-    transition: color 0.2s ease, text-decoration-color 0.2s ease; /* 부드러운 전환 효과 */
-}
-
-.end-source a:hover,
-.end-source a:focus {
-    color: #c28891;                /* 마우스를 올렸을 때(또는 클릭할 때) 조금 더 연한 색상 */
-    text-decoration-color: #c28891; /* 밑줄 색상도 함께 연하게 변경 */
-}
-
 .end-note {
     bottom: 80px;
     left: 0;
