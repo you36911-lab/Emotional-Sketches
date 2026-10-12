@@ -363,11 +363,10 @@ body {
    font-size: 12px;
    line-height: 2;
    color: #9a5a64;
-   width: 150px;
+   width: 180px;
    display: flex;
    flex-direction: column;
    align-items: flex-start;
-   width: max-content;
 }
 
 .end-note {
