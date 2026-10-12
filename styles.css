@@ -340,6 +340,16 @@ body {
 
 .end-title {
    text-align: center;
+   position: absolute;
+   top: 40%;
+   left: 50%;
+   transform: translateX(-50%);
+   margin-left: auto;
+   margin-right: auto;
+   font-size: 12px;
+   line-height: 2;
+   color: #9a5a64;
+   width: 150px;
 }
 
 .end-source {
