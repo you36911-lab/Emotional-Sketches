@@ -359,8 +359,17 @@ body {
 }
 
 .source-list {
-   text-align: justify;
-   width: 220px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    width: 220px;
+    gap: 8px;
+    font-size: 12px;
+}
+
+.source-list span {
+    text-align: right;
+    overflow-wrap: anywhere;
 }
 
 .end-note {
