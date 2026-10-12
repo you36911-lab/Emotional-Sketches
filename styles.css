@@ -339,7 +339,10 @@ body {
 }
 
 .end-source {
+   position: absolute;
    top: 44%;
+   left: 50%;
+   transform: translateX(-50%);
    margin-left: auto;
    margin-right: auto;
    text-align: justify;
