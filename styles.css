@@ -334,13 +334,13 @@ body {
 
 .end-source {
    top: 44%;
-   left: 0;
-   right: 0;
+   margin-left: auto;
+   margin-right: auto;
    text-align: justify;
    font-size: 12px;
    line-height: 2;
    color: #9a5a64;
-   width: 100px;
+   width: 150px;
 }
 
 .end-note {
