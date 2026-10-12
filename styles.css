@@ -338,6 +338,10 @@ body {
     font-size: 96px;
 }
 
+.end-title {
+   text-align: center;
+}
+
 .end-source {
    position: absolute;
    top: 42%;
