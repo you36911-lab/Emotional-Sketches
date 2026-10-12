@@ -321,6 +321,11 @@ body {
     width: 24px;
 }
 
+.end-box {
+   display: flex;
+   flex-direction: column;
+}
+
 .end-mark {
     top: 30%;
     left: 0;
