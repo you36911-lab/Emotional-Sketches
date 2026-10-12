@@ -324,6 +324,7 @@ body {
 .end-box {
    display: flex;
    flex-direction: column;
+   justify-content: center;
 }
 
 .end-mark {
