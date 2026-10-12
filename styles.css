@@ -333,6 +333,7 @@ body {
 }
 
 .end-source {
+   bottom: 200px;
    left: 0;
    right: 0;
    text-align: center;
